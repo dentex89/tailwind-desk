@@ -1,0 +1,23 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dentex89/tailwind-desk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dentex89/tailwind-desk/issues"
+  },
+  "homepage": "https://github.com/dentex89/tailwind-desk#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
