@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["tailwind.4cad6c6b.css","src/styles.css"],"sourcesContent":["h1 {\n  color: #ff69b4;\n  font-family: cursive;\n}\n/*# sourceMappingURL=tailwind.4cad6c6b.css.map */\n","h1 {\r\n  color: hotpink;\r\n  font-family: cursive;\r\n}"],"names":[],"version":3,"file":"tailwind.4cad6c6b.css.map"}
